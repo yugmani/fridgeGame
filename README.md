@@ -17,7 +17,7 @@
 
 ## Pseudocode
 
-###. Major Task #1: CREATE ARRAY
+### Major Task #1: CREATE AN ARRAY
 1. Create an array of letters.
 2.  Use this array to dynamically create buttons on the screen.
 
